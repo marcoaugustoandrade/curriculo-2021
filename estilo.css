@@ -1,8 +1,24 @@
+a:hover {
+    color: brown;
+    background-color: yellow;
+    text-decoration: overline;
+}
+
+a:link {
+    color: #1fb41f;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
 .pagina{
     background-color: #edebd7;
 }
 
-.titulo{
+.titulo, .subtitulo{
     color: #423e37;
     text-align: center;
 }
@@ -10,5 +26,6 @@
 .texto{
     color: #6e675f;
 }
+
 
 /* e3b23c */
